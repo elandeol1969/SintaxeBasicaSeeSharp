@@ -1,0 +1,15 @@
+C:\Users\elias\Documents\CURSOS\UDEMY\Curso C#\Projetos\SintaxeBasicaSeeSharp\SintaxeBasicaSeeSharp\bin\Debug\net6.0\SintaxeBasicaSeeSharp.exe
+C:\Users\elias\Documents\CURSOS\UDEMY\Curso C#\Projetos\SintaxeBasicaSeeSharp\SintaxeBasicaSeeSharp\bin\Debug\net6.0\SintaxeBasicaSeeSharp.deps.json
+C:\Users\elias\Documents\CURSOS\UDEMY\Curso C#\Projetos\SintaxeBasicaSeeSharp\SintaxeBasicaSeeSharp\bin\Debug\net6.0\SintaxeBasicaSeeSharp.runtimeconfig.json
+C:\Users\elias\Documents\CURSOS\UDEMY\Curso C#\Projetos\SintaxeBasicaSeeSharp\SintaxeBasicaSeeSharp\bin\Debug\net6.0\SintaxeBasicaSeeSharp.dll
+C:\Users\elias\Documents\CURSOS\UDEMY\Curso C#\Projetos\SintaxeBasicaSeeSharp\SintaxeBasicaSeeSharp\bin\Debug\net6.0\SintaxeBasicaSeeSharp.pdb
+C:\Users\elias\Documents\CURSOS\UDEMY\Curso C#\Projetos\SintaxeBasicaSeeSharp\SintaxeBasicaSeeSharp\obj\Debug\net6.0\SintaxeBasicaSeeSharp.csproj.AssemblyReference.cache
+C:\Users\elias\Documents\CURSOS\UDEMY\Curso C#\Projetos\SintaxeBasicaSeeSharp\SintaxeBasicaSeeSharp\obj\Debug\net6.0\SintaxeBasicaSeeSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias\Documents\CURSOS\UDEMY\Curso C#\Projetos\SintaxeBasicaSeeSharp\SintaxeBasicaSeeSharp\obj\Debug\net6.0\SintaxeBasicaSeeSharp.AssemblyInfoInputs.cache
+C:\Users\elias\Documents\CURSOS\UDEMY\Curso C#\Projetos\SintaxeBasicaSeeSharp\SintaxeBasicaSeeSharp\obj\Debug\net6.0\SintaxeBasicaSeeSharp.AssemblyInfo.cs
+C:\Users\elias\Documents\CURSOS\UDEMY\Curso C#\Projetos\SintaxeBasicaSeeSharp\SintaxeBasicaSeeSharp\obj\Debug\net6.0\SintaxeBasicaSeeSharp.csproj.CoreCompileInputs.cache
+C:\Users\elias\Documents\CURSOS\UDEMY\Curso C#\Projetos\SintaxeBasicaSeeSharp\SintaxeBasicaSeeSharp\obj\Debug\net6.0\SintaxeBasicaSeeSharp.dll
+C:\Users\elias\Documents\CURSOS\UDEMY\Curso C#\Projetos\SintaxeBasicaSeeSharp\SintaxeBasicaSeeSharp\obj\Debug\net6.0\refint\SintaxeBasicaSeeSharp.dll
+C:\Users\elias\Documents\CURSOS\UDEMY\Curso C#\Projetos\SintaxeBasicaSeeSharp\SintaxeBasicaSeeSharp\obj\Debug\net6.0\SintaxeBasicaSeeSharp.pdb
+C:\Users\elias\Documents\CURSOS\UDEMY\Curso C#\Projetos\SintaxeBasicaSeeSharp\SintaxeBasicaSeeSharp\obj\Debug\net6.0\SintaxeBasicaSeeSharp.genruntimeconfig.cache
+C:\Users\elias\Documents\CURSOS\UDEMY\Curso C#\Projetos\SintaxeBasicaSeeSharp\SintaxeBasicaSeeSharp\obj\Debug\net6.0\ref\SintaxeBasicaSeeSharp.dll
